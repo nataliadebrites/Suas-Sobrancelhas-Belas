@@ -1,3 +1,28 @@
 <body>
+
+<header>
+        <img src="images.jpeg" alt="sobrancelhas" class="sobrancelhas"
+        <h1>Suas Sobrancelhas Mais Belas</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Menu Principal</a></li>
+                <li><a href="Remoçãoacera.html">Remoção a cera</a></li>
+                <li><a href="Remoçãocompinsa.html">Remoção com pinsa</a></li>
+                <li><a href="Remoçãoalinha.html">Remoção a linha</a></li>
+                <li><a href="Entre.html">Entre em contato conosco</a></li>
+            </ul>
+        </nav>
+    </header>
 <h1>SUAS SOBRANCELHAS MAIS BELAS</h1> 
+
 <h2>Atendimento e Trabalho de Qualidade</h2>
+
+<h3>Temos objetivo em fazer as sobrancelhas com boa qualidade e 
+ajudar com a auto estima do nosso público</h3>
+
+<p>Usamos variáveis método para que nosso público se sinta confortável
+com cada tipo de procendimentos que são: cera, pinsa e linha.
+Também usamos anestésicos para pessoas que que tem a sensibilidade muito auta. </p>
+    
+ <p>Temos um lugar calmo e aconchegante para a espera de sua vez.
+ Faça seu agendamento com nós, ficaremos felizes em atende-los.</p>
